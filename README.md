@@ -2,7 +2,7 @@
 - 🔭Hoje trabalho com back-end..
 - 🌱 Estudando C#, Angular e TypeScript
 
-##  Meu nome é Buno, Desenvolvedor FullStack!
+## Buno, Desenvolvedor FullStack!
 
 <div align="center">
   <a href="https://github.com/brunohaiek">
