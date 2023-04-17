@@ -22,7 +22,7 @@
   
   
 
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1392864342098448391/6viy8TQh_400x400.jpg">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
   
   
 </div>
