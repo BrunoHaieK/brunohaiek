@@ -22,7 +22,7 @@
   
   
 
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
+ <img align="right" alt="" height="150" style="border-radius:50px;" src="">
   
   
 </div>
